@@ -24,7 +24,7 @@ class FormEntry():
         return f'ID: {self.ID}, tag: {self.tag}, entry label: {self.label}, answer: {self.answer}, answer type: {self.answer_type}'
     
     def check_popup_list_visible(self):
-        if len(driver.find_elements_by_xpath(f"//descendant::div[@data-automation-id='activeListContainer']")) > 0:
+        if len(self.element.find_elements_by_xpath(f"//descendant::div[@data-automation-id='activeListContainer']")) > 0:
             return True
         else:
             return False
@@ -33,14 +33,20 @@ class FormEntry():
         if self.tag == 'div':
             if self.element.get_attribute('data-automation-id') == 'dateInputWrapper':
                 self.answer_type = 'DATE'
+                day_input = self.element.find_elements_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Day']")
                 month_input = self.element.find_elements_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Month']")
                 year_input = self.element.find_elements_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Year']")
-                if len(month_input) > 0 and len(year_input) > 0:
+                if len(day_input) > 0 and len(month_input) > 0 and len(year_input) > 0:
+                    self.answer_type = 'DATE_MONTH_DAY_YEAR'
+                elif len(month_input) > 0 and len(year_input) > 0:
                     self.answer_type = 'DATE_MONTH_YEAR'
                 elif len(month_input) > 0:
                     self.answer_type = 'DATE_MONTH'
                 elif len(year_input) > 0:
                     self.answer_type = 'DATE_YEAR'
+
+            elif self.element.get_attribute('data-automation-id') == 'disability':
+                self.answer_type = 'DISABILITY'
                 
         elif self.tag == 'input':
             if self.element.get_attribute('type') == 'checkbox':
@@ -53,6 +59,7 @@ class FormEntry():
         elif self.tag == 'button':
             if self.element.get_attribute('type') == 'button':
                 self.answer_type = "LISTBOX"
+
         elif self.tag == 'textarea':
             self.answer_type = 'TEXTAREA'
         
@@ -62,7 +69,13 @@ class FormEntry():
         
     def get_label(self):        
         #get label based on if input or button element
-        if self.answer_type == "DATE_MONTH_YEAR":
+        if self.answer_type == "DATE_MONTH_DAY_YEAR":
+            label = self.element.find_element_by_xpath(f".//preceding-sibling::label")
+            label = label.text
+            label = label.replace("*", "")
+            self.label = label
+
+        elif self.answer_type == "DATE_MONTH_YEAR":
             label = self.element.find_element_by_xpath(f".//preceding-sibling::label")
             label = label.text
             label = label.replace("*", "")
@@ -92,6 +105,12 @@ class FormEntry():
             label = label.replace("*", "")
             self.label = label
 
+        elif self.answer_type == "DISABILITY":
+            label = self.element.find_element_by_xpath(f"//legend[@for='{self.ID}']")
+            label = label.text
+            label = label.replace("*", "")
+            self.label = label
+
         elif self.element.tag_name == 'input':
             try:
                 label = self.element.find_element_by_xpath(f".//preceding::label[@for='{self.ID}']")
@@ -106,7 +125,6 @@ class FormEntry():
                 label = self.element.find_element_by_xpath(".//preceding::legend[starts-with(@for, 'input-')]")
                 label = label.text
                 label = label.replace("*", "")
-                print(label)
                 self.label = label
             except:
                 print("couldn't get div label")
@@ -136,13 +154,22 @@ class FormEntry():
         desired_answer = desired_answer[0]
         
         #fill i nanswer based on type of form entry elemnt using self.answer_type: this will ultimately replace the self.tag method
-        if self.answer_type == "DATE_MONTH_YEAR":
-            print(f"date to input: {desired_answer}, ID: {self.ID}")
+        if self.answer_type == "DATE_MONTH_DAY_YEAR":
+            date_input = self.element.find_element_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Month']")
+            #format answr for inputting correct date (this assumes date has formate mm/dd/yyyy)
+            desired_answer = desired_answer.split('/')
+            desired_answer = desired_answer[0] + desired_answer[1] + desired_answer[2]
+            
+            date_input.send_keys(desired_answer)
+            date_input.send_keys(Keys.TAB)
+
+        elif self.answer_type == "DATE_MONTH_YEAR":
+    
             date_input = self.element.find_element_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Month']")
             #format answr for inputting correct date (this assumes date has formate mm/dd/yyyy)
             desired_answer = desired_answer.split('/')
             desired_answer = desired_answer[0] + desired_answer[2]
-            print(desired_answer)
+            
             date_input.send_keys(desired_answer)
             date_input.send_keys(Keys.TAB)
 
@@ -156,8 +183,10 @@ class FormEntry():
             date_input.send_keys(Keys.TAB)  
             
         elif self.answer_type == "CHECKBOX":
-            if desired_answer in ["yes", "YES", "Yes"]:
+            if desired_answer in ["yes", "YES", "Yes"] and self.element.get_attribute('aria-checked') == 'false':
+                print("made it to here")
                 self.element.click()
+                time.sleep(0.5)
 
         elif self.answer_type == "TEXTAREA":
             #clear out any previous answer
@@ -179,7 +208,6 @@ class FormEntry():
             driver.implicitly_wait(1)
             
             if self.check_popup_list_visible() is True:
-                print("made it here")
                 listbox_choice = driver.find_element_by_xpath(f"//div[@data-automation-id='promptOption' and @data-automation-label='{desired_answer}']")
                 listbox_choice.click()
 
@@ -191,7 +219,13 @@ class FormEntry():
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "[data-uxi-widget-type='popup']")))
             dropdown_answer = self.element.find_element_by_xpath(f"//div[@data-uxi-widget-type='popup']/descendant::div[normalize-space(text())='{desired_answer}']")
             dropdown_answer.click()
-            print("made it click")
+
+        elif self.answer_type == "DISABILITY":
+            answer_label = self.element.find_element_by_xpath(rf'//label[normalize-space(text())="{self.answer}"]')
+            answer_label_id = answer_label.get_attribute('for')
+            answer_checkbox = self.element.find_element_by_xpath(f"//input[@id='{answer_label_id}']")
+            if answer_checkbox.get_attribute('aria-checked') == 'false':
+                answer_checkbox.click()
 
         #fill in answer based on type of entry form
         elif self.tag == 'input':
