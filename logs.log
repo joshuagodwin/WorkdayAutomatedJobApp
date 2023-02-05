@@ -1,0 +1,77 @@
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: element click intercepted: Element <button aria-label="Delete Work Experience 1" data-automation-id="panel-set-delete-button" class="css-1izek2r">...</button> is not clickable at point (948, 620). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+WARNING:root:Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="645f06e1697929461d3bc4718f1f5ea9")>, 'voluntaryDisclosuresPage', 'RacistQuestions', 1, 'Answers.xlsx', 0.2),  error exception: Message: element click intercepted: Element <input id="input-3266" type="checkbox" aria-checked="false" data-automation-id="agreementCheckbox" aria-required="true" class="css-ze4fgk" value=""> is not clickable at point (298, 2052). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: element click intercepted: Element <button aria-label="Delete Work Experience 1" data-automation-id="panel-set-delete-button" class="css-1izek2r">...</button> is not clickable at point (948, 620). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: name 'aria' is not defined
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: ''Delete Work Experience'' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: element click intercepted: Element <button aria-label="Delete Work Experience 1" data-automation-id="panel-set-delete-button" class="css-1izek2r">...</button> is not clickable at point (948, 620). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: element click intercepted: Element <button aria-label="Delete Work Experience 1" data-automation-id="panel-set-delete-button" class="css-1izek2r">...</button> is not clickable at point (1314, 620). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+INFO:root:clicked on button: Delete Work Experience 1
+INFO:root:delete button: 'Delete Work Experience' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: element click intercepted: Element <button aria-label="Delete Work Experience 1" data-automation-id="panel-set-delete-button" class="css-1izek2r">...</button> is not clickable at point (1314, 620). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+WARNING:root:Error in function go_to_next, args: (),  error exception: Message: element click intercepted: Element <button data-automation-id="bottom-navigation-next-button" font-size="14" height="40" class="css-12zg065" disabled="">...</button> is not clickable at point (1418, 2021). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: element click intercepted: Element <button aria-label="Delete Work Experience 1" data-automation-id="panel-set-delete-button" class="css-1izek2r">...</button> is not clickable at point (1314, 620). Other element would receive the click: <div data-automation-id="veil" class="css-5mpud0"></div>
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:header names are: ['My Experience']
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+INFO:root:clicked on button: Delete Work Experience 1
+INFO:root:delete button: 'Delete Work Experience' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:header names are: ['My Experience']
+INFO:root:Found 1 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+INFO:root:clicked on button: Delete Work Experience 1
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Education'
+INFO:root:delete button: 'Delete Education' found
+INFO:root:clicked on button: Delete Education 1
+INFO:root:delete button: 'Delete Education' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Education'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:header names are: ['My Experience']
+INFO:root:Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+INFO:root:clicked on button: Delete Work Experience 1
+INFO:root:delete button: 'Delete Work Experience' found
+WARNING:root:Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+INFO:root:header names are: ['My Experience']
+INFO:root:Found 1 delete buttons starting with aria-label: 'Delete Work Experience'
+INFO:root:delete button: 'Delete Work Experience' found
+INFO:root:clicked on button: Delete Work Experience 1
+INFO:root:Found 1 delete buttons starting with aria-label: 'Delete Education'
+INFO:root:delete button: 'Delete Education' found
+INFO:root:clicked on button: Delete Education 1
+WARNING:root:Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="645f06e1697929461d3bc4718f1f5ea9")>, 'voluntaryDisclosuresPage', 'RacistQuestions', 1, 'Answers.xlsx', 0.2),  error exception: Message: element click intercepted: Element <input id="input-5458" type="checkbox" aria-checked="false" data-automation-id="agreementCheckbox" aria-required="true" class="css-ze4fgk" value=""> is not clickable at point (664, 2052). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
