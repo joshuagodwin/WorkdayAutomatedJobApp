@@ -10,6 +10,12 @@ import time
 import pandas as pd
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+from fuzzywuzzy import fuzz
+from logging_config import get_logger
+
+logger = get_logger("script_file")
+logger.debug("This is a debug message from the script file")
+logger.info("This is an info message from the script file")
 
 class FormEntry():
     def __init__(self,element):
@@ -152,13 +158,17 @@ class FormEntry():
         #get desired answer
         desired_answer = self.answer.split(',')
         desired_answer = desired_answer[0]
+        logger.info(f"deisred answer is: {desired_answer}")   
         
         #fill i nanswer based on type of form entry elemnt using self.answer_type: this will ultimately replace the self.tag method
         if self.answer_type == "DATE_MONTH_DAY_YEAR":
             date_input = self.element.find_element_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Month']")
             #format answr for inputting correct date (this assumes date has formate mm/dd/yyyy)
-            desired_answer = desired_answer.split('/')
-            desired_answer = desired_answer[0] + desired_answer[1] + desired_answer[2]
+            desired_answer = desired_answer.split('-')
+            logger.info(f"desired answer split into: {len(desired_answer)} pieces")
+            day = desired_answer[2].split(' ')
+            desired_answer = desired_answer[1] + day[0] + desired_answer[0]
+            logger.info(f"desired answer updated for date, is: {desired_answer}")
             
             date_input.send_keys(desired_answer)
             date_input.send_keys(Keys.TAB)

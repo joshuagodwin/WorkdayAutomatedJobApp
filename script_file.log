@@ -1,0 +1,272 @@
+2023-02-06 21:07:42 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:13:29 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:16:06 - script_file - WARNING - test of logger
+2023-02-13 22:16:08 - script_file - WARNING - test of logger
+2023-02-13 22:16:09 - script_file - WARNING - test of logger
+2023-02-13 22:16:10 - script_file - WARNING - test of logger
+2023-02-13 22:16:11 - script_file - WARNING - test of logger
+2023-02-13 22:16:11 - script_file - WARNING - test of logger
+2023-02-13 22:16:12 - script_file - WARNING - test of logger
+2023-02-13 22:16:12 - script_file - WARNING - test of logger
+2023-02-13 22:16:13 - script_file - WARNING - test of logger
+2023-02-13 22:16:14 - script_file - WARNING - test of logger
+2023-02-13 22:16:14 - script_file - WARNING - test of logger
+2023-02-13 22:16:15 - script_file - WARNING - test of logger
+2023-02-13 22:16:18 - script_file - WARNING - test of logger
+2023-02-13 22:16:18 - script_file - WARNING - test of logger
+2023-02-13 22:17:48 - script_file - WARNING - test of logger
+2023-02-13 22:17:49 - script_file - WARNING - test of logger
+2023-02-13 22:17:50 - script_file - WARNING - test of logger
+2023-02-13 22:17:51 - script_file - WARNING - test of logger
+2023-02-13 22:17:51 - script_file - WARNING - test of logger
+2023-02-13 22:17:52 - script_file - WARNING - test of logger
+2023-02-13 22:17:52 - script_file - WARNING - test of logger
+2023-02-13 22:17:53 - script_file - WARNING - test of logger
+2023-02-13 22:17:53 - script_file - WARNING - test of logger
+2023-02-13 22:17:54 - script_file - WARNING - test of logger
+2023-02-13 22:17:55 - script_file - WARNING - test of logger
+2023-02-13 22:17:55 - script_file - WARNING - test of logger
+2023-02-13 22:17:57 - script_file - WARNING - test of logger
+2023-02-13 22:17:58 - script_file - WARNING - test of logger
+2023-02-13 22:20:27 - script_file - WARNING - test of logger
+2023-02-13 22:20:31 - script_file - WARNING - test of logger
+2023-02-13 22:20:32 - script_file - WARNING - test of logger
+2023-02-13 22:20:35 - script_file - WARNING - test of logger
+2023-02-13 22:20:36 - script_file - WARNING - test of logger
+2023-02-13 22:20:37 - script_file - WARNING - test of logger
+2023-02-13 22:20:37 - script_file - WARNING - test of logger
+2023-02-13 22:20:38 - script_file - WARNING - test of logger
+2023-02-13 22:20:38 - script_file - WARNING - test of logger
+2023-02-13 22:20:39 - script_file - WARNING - test of logger
+2023-02-13 22:20:40 - script_file - WARNING - test of logger
+2023-02-13 22:20:41 - script_file - WARNING - test of logger
+2023-02-13 22:20:43 - script_file - WARNING - test of logger
+2023-02-13 22:20:43 - script_file - WARNING - test of logger
+2023-02-13 22:30:26 - script_file - WARNING - test of logger
+2023-02-13 22:30:28 - script_file - WARNING - test of logger
+2023-02-13 22:30:28 - script_file - WARNING - test of logger
+2023-02-13 22:30:29 - script_file - WARNING - test of logger
+2023-02-13 22:30:30 - script_file - WARNING - test of logger
+2023-02-13 22:30:30 - script_file - WARNING - test of logger
+2023-02-13 22:30:30 - script_file - WARNING - test of logger
+2023-02-13 22:30:31 - script_file - WARNING - test of logger
+2023-02-13 22:30:31 - script_file - WARNING - test of logger
+2023-02-13 22:30:32 - script_file - WARNING - test of logger
+2023-02-13 22:30:33 - script_file - WARNING - test of logger
+2023-02-13 22:30:33 - script_file - WARNING - test of logger
+2023-02-13 22:30:35 - script_file - WARNING - test of logger
+2023-02-13 22:30:36 - script_file - WARNING - test of logger
+2023-02-13 22:30:44 - script_file - WARNING - test of logger
+2023-02-13 22:30:45 - script_file - WARNING - test of logger
+2023-02-13 22:30:45 - script_file - WARNING - test of logger
+2023-02-13 22:30:46 - script_file - WARNING - test of logger
+2023-02-13 22:30:47 - script_file - WARNING - test of logger
+2023-02-13 22:30:48 - script_file - WARNING - test of logger
+2023-02-13 22:30:50 - script_file - WARNING - test of logger
+2023-02-13 22:30:50 - script_file - WARNING - test of logger
+2023-02-13 22:30:51 - script_file - WARNING - test of logger
+2023-02-13 22:30:52 - script_file - WARNING - test of logger
+2023-02-13 22:30:52 - script_file - WARNING - test of logger
+2023-02-13 22:30:54 - script_file - WARNING - test of logger
+2023-02-13 22:30:54 - script_file - WARNING - test of logger
+2023-02-13 22:30:58 - script_file - WARNING - test of logger
+2023-02-13 22:30:59 - script_file - WARNING - test of logger
+2023-02-13 22:30:59 - script_file - WARNING - test of logger
+2023-02-13 22:31:01 - script_file - WARNING - test of logger
+2023-02-13 22:31:03 - script_file - WARNING - test of logger
+2023-02-13 22:31:04 - script_file - WARNING - test of logger
+2023-02-13 22:31:06 - script_file - WARNING - test of logger
+2023-02-13 22:31:07 - script_file - WARNING - test of logger
+2023-02-13 22:31:07 - script_file - WARNING - test of logger
+2023-02-13 22:31:09 - script_file - WARNING - test of logger
+2023-02-13 22:31:11 - script_file - WARNING - test of logger
+2023-02-13 22:31:12 - script_file - WARNING - test of logger
+2023-02-13 22:31:17 - script_file - WARNING - test of logger
+2023-02-13 22:31:18 - script_file - WARNING - test of logger
+2023-02-13 22:31:18 - script_file - WARNING - test of logger
+2023-02-13 22:31:19 - script_file - WARNING - test of logger
+2023-02-13 22:31:19 - script_file - WARNING - test of logger
+2023-02-13 22:31:23 - script_file - WARNING - test of logger
+2023-02-13 22:31:23 - script_file - WARNING - test of logger
+2023-02-13 22:31:24 - script_file - WARNING - test of logger
+2023-02-13 22:31:25 - script_file - WARNING - test of logger
+2023-02-13 22:31:25 - script_file - WARNING - test of logger
+2023-02-13 22:31:29 - script_file - WARNING - test of logger
+2023-02-13 22:31:30 - script_file - WARNING - test of logger
+2023-02-13 22:31:31 - script_file - WARNING - test of logger
+2023-02-13 22:31:31 - script_file - WARNING - test of logger
+2023-02-13 22:36:18 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:36:18 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:36:36 - script_file - INFO - deisres answer is: English
+2023-02-13 22:36:36 - script_file - INFO - deisres answer is: English
+2023-02-13 22:36:37 - script_file - INFO - deisres answer is: John Smith
+2023-02-13 22:36:37 - script_file - INFO - deisres answer is: John Smith
+2023-02-13 22:36:38 - script_file - INFO - deisres answer is: 
+2023-02-13 22:36:38 - script_file - INFO - deisres answer is: 
+2023-02-13 22:36:38 - script_file - INFO - deisres answer is: 2023-02-06 00:00:00
+2023-02-13 22:36:38 - script_file - INFO - deisres answer is: 2023-02-06 00:00:00
+2023-02-13 22:40:44 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:40:44 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:40:44 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:40:58 - script_file - INFO - deisred answer is: English
+2023-02-13 22:40:58 - script_file - INFO - deisred answer is: English
+2023-02-13 22:40:58 - script_file - INFO - deisred answer is: English
+2023-02-13 22:40:58 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:40:58 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:40:58 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:40:59 - script_file - INFO - deisred answer is: 
+2023-02-13 22:40:59 - script_file - INFO - deisred answer is: 
+2023-02-13 22:40:59 - script_file - INFO - deisred answer is: 
+2023-02-13 22:40:59 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:40:59 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:40:59 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:15 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:42:15 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:42:15 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:42:15 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: English
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: English
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: English
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: English
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:42:25 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:42:26 - script_file - INFO - deisred answer is: 
+2023-02-13 22:42:26 - script_file - INFO - deisred answer is: 
+2023-02-13 22:42:26 - script_file - INFO - deisred answer is: 
+2023-02-13 22:42:26 - script_file - INFO - deisred answer is: 
+2023-02-13 22:42:27 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:27 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:27 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:27 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:22 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:44:22 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:44:22 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:44:22 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:44:22 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:44:32 - script_file - INFO - deisred answer is: English
+2023-02-13 22:44:32 - script_file - INFO - deisred answer is: English
+2023-02-13 22:44:32 - script_file - INFO - deisred answer is: English
+2023-02-13 22:44:32 - script_file - INFO - deisred answer is: English
+2023-02-13 22:44:32 - script_file - INFO - deisred answer is: English
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: 
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: 
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: 
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: 
+2023-02-13 22:44:33 - script_file - INFO - deisred answer is: 
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:44:34 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:44:34 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:44:34 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:44:34 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:44:34 - script_file - INFO - desired answer updated for date, is: 20230213
+2023-02-13 22:44:34 - script_file - INFO - desired answer updated for date, is: 20230213
+2023-02-13 22:44:34 - script_file - INFO - desired answer updated for date, is: 20230213
+2023-02-13 22:44:34 - script_file - INFO - desired answer updated for date, is: 20230213
+2023-02-13 22:44:34 - script_file - INFO - desired answer updated for date, is: 20230213
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: No
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: No
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: No
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: No
+2023-02-13 22:44:34 - script_file - INFO - deisred answer is: No
+2023-02-13 22:46:12 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:46:12 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:46:12 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:46:12 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:46:12 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:46:12 - script_file - INFO - This is an info message from the script file
+2023-02-13 22:46:22 - script_file - INFO - deisred answer is: English
+2023-02-13 22:46:22 - script_file - INFO - deisred answer is: English
+2023-02-13 22:46:22 - script_file - INFO - deisred answer is: English
+2023-02-13 22:46:22 - script_file - INFO - deisred answer is: English
+2023-02-13 22:46:22 - script_file - INFO - deisred answer is: English
+2023-02-13 22:46:22 - script_file - INFO - deisred answer is: English
+2023-02-13 22:46:23 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:46:23 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:46:23 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:46:23 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:46:23 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:46:23 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:46:24 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:46:24 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:46:24 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:46:24 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:46:24 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:46:24 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:46:24 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:46:24 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:46:24 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:46:24 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:46:24 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:46:25 - script_file - INFO - deisred answer is: No
+2023-02-13 22:46:25 - script_file - INFO - deisred answer is: No
+2023-02-13 22:46:25 - script_file - INFO - deisred answer is: No
+2023-02-13 22:46:25 - script_file - INFO - deisred answer is: No
+2023-02-13 22:46:25 - script_file - INFO - deisred answer is: No
+2023-02-13 22:46:25 - script_file - INFO - deisred answer is: No
+2023-02-13 22:47:29 - script_file - INFO - deisred answer is: English
+2023-02-13 22:47:29 - script_file - INFO - deisred answer is: English
+2023-02-13 22:47:29 - script_file - INFO - deisred answer is: English
+2023-02-13 22:47:29 - script_file - INFO - deisred answer is: English
+2023-02-13 22:47:29 - script_file - INFO - deisred answer is: English
+2023-02-13 22:47:29 - script_file - INFO - deisred answer is: English
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: John Smith
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: 
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: 
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: 
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: 
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: 
+2023-02-13 22:47:30 - script_file - INFO - deisred answer is: 
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:47:31 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:47:31 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:47:31 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:47:31 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:47:31 - script_file - INFO - desired answer split into: 3 pieces
+2023-02-13 22:47:31 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:47:31 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:47:31 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:47:31 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:47:31 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:47:31 - script_file - INFO - desired answer updated for date, is: 02132023
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: No
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: No
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: No
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: No
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: No
+2023-02-13 22:47:31 - script_file - INFO - deisred answer is: No

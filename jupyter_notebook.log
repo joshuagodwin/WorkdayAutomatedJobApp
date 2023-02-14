@@ -1,0 +1,993 @@
+2023-02-06 21:04:24 - jupyter_notebook - INFO - This is an info message from the Jupyter notebook
+2023-02-06 21:04:43 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-06 21:04:45 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-06 21:04:46 - jupyter_notebook - INFO - Viewport size: 876 x 1376
+2023-02-06 21:04:46 - jupyter_notebook - INFO - scrolled into view for element: ID: input-1356, tag: button, entry label: Language, answer: English, answer type: LISTBOX, size of element Element size: 344 x 40
+2023-02-06 21:04:47 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-06 21:04:48 - jupyter_notebook - INFO - Element: ID: input-1360, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-06 21:04:49 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-06 21:04:49 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-06 21:04:49 - jupyter_notebook - INFO - Element: ID: input-1361, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-06 21:04:51 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-06 21:04:51 - jupyter_notebook - INFO - Element: ID: input-1364, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-06 21:04:51 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="82e2180ac3a8aa0a3dcd5ec02ce9b329")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-06 21:05:23 - jupyter_notebook - INFO - This is an info message from the Jupyter notebook
+2023-02-06 21:05:23 - jupyter_notebook - INFO - This is an info message from the Jupyter notebook
+2023-02-06 21:08:03 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-06 21:08:03 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-06 21:08:05 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-06 21:08:05 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-06 21:08:05 - jupyter_notebook - INFO - Viewport size: 872 x 1376
+2023-02-06 21:08:05 - jupyter_notebook - INFO - Viewport size: 872 x 1376
+2023-02-06 21:08:05 - jupyter_notebook - INFO - scrolled into view for element: ID: input-1356, tag: button, entry label: Language, answer: English, answer type: LISTBOX, size of element Element size: 344 x 40
+2023-02-06 21:08:05 - jupyter_notebook - INFO - scrolled into view for element: ID: input-1356, tag: button, entry label: Language, answer: English, answer type: LISTBOX, size of element Element size: 344 x 40
+2023-02-06 21:08:07 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-06 21:08:07 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-06 21:08:07 - jupyter_notebook - INFO - Element: ID: input-1360, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-06 21:08:07 - jupyter_notebook - INFO - Element: ID: input-1360, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-06 21:08:08 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-06 21:08:08 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-06 21:08:08 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-06 21:08:08 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-06 21:08:09 - jupyter_notebook - INFO - Element: ID: input-1361, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-06 21:08:09 - jupyter_notebook - INFO - Element: ID: input-1361, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-06 21:08:09 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-06 21:08:09 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-06 21:08:10 - jupyter_notebook - INFO - Element: ID: input-1364, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-06 21:08:10 - jupyter_notebook - INFO - Element: ID: input-1364, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-06 21:08:10 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="82e2180ac3a8aa0a3dcd5ec02ce9b329")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-06 21:08:10 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="82e2180ac3a8aa0a3dcd5ec02ce9b329")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:13:49 - jupyter_notebook - INFO - This is an info message from the Jupyter notebook
+2023-02-13 22:13:49 - jupyter_notebook - INFO - This is an info message from the Jupyter notebook
+2023-02-13 22:13:49 - jupyter_notebook - INFO - This is an info message from the Jupyter notebook
+2023-02-13 22:13:57 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:13:57 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:13:57 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:14:46 - jupyter_notebook - WARNING - Apply manually button was not pressed. This could be because the job app had already been started or an error
+2023-02-13 22:14:46 - jupyter_notebook - WARNING - Apply manually button was not pressed. This could be because the job app had already been started or an error
+2023-02-13 22:14:46 - jupyter_notebook - WARNING - Apply manually button was not pressed. This could be because the job app had already been started or an error
+2023-02-13 22:16:04 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:16:04 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:16:04 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:16:06 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:16:06 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:16:06 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:16:06 - jupyter_notebook - INFO - Element: ID: input-1, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:16:06 - jupyter_notebook - INFO - Element: ID: input-1, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:16:06 - jupyter_notebook - INFO - Element: ID: input-1, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:16:08 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:16:08 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:16:08 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:16:08 - jupyter_notebook - INFO - Element: ID: input-2, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:16:08 - jupyter_notebook - INFO - Element: ID: input-2, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:16:08 - jupyter_notebook - INFO - Element: ID: input-2, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:16:09 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:16:09 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:16:09 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:16:09 - jupyter_notebook - INFO - Element: ID: input-3, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:16:09 - jupyter_notebook - INFO - Element: ID: input-3, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:16:09 - jupyter_notebook - INFO - Element: ID: input-3, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:16:10 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:16:10 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:16:10 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:16:10 - jupyter_notebook - INFO - Element: ID: input-4, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:10 - jupyter_notebook - INFO - Element: ID: input-4, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:10 - jupyter_notebook - INFO - Element: ID: input-4, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:11 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:16:11 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:16:11 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Element: ID: input-5, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Element: ID: input-5, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Element: ID: input-5, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Element: ID: input-6, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Element: ID: input-6, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:16:11 - jupyter_notebook - INFO - Element: ID: input-6, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:16:12 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:16:12 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:16:12 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:16:12 - jupyter_notebook - INFO - Element: ID: input-7, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:12 - jupyter_notebook - INFO - Element: ID: input-7, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:12 - jupyter_notebook - INFO - Element: ID: input-7, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:12 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:16:12 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:16:12 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:16:12 - jupyter_notebook - INFO - Element: ID: input-8, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:12 - jupyter_notebook - INFO - Element: ID: input-8, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:12 - jupyter_notebook - INFO - Element: ID: input-8, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:13 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:16:13 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:16:13 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:16:13 - jupyter_notebook - INFO - Element: ID: input-9, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:16:13 - jupyter_notebook - INFO - Element: ID: input-9, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:16:13 - jupyter_notebook - INFO - Element: ID: input-9, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:16:14 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:16:14 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:16:14 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:16:14 - jupyter_notebook - INFO - Element: ID: input-10, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:14 - jupyter_notebook - INFO - Element: ID: input-10, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:14 - jupyter_notebook - INFO - Element: ID: input-10, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:14 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:16:14 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:16:14 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:16:14 - jupyter_notebook - INFO - Element: ID: input-12, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:16:14 - jupyter_notebook - INFO - Element: ID: input-12, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:16:14 - jupyter_notebook - INFO - Element: ID: input-12, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:16:15 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:16:15 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:16:15 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:16:15 - jupyter_notebook - INFO - Element: ID: input-13, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:16:15 - jupyter_notebook - INFO - Element: ID: input-13, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:16:15 - jupyter_notebook - INFO - Element: ID: input-13, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:16:17 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:16:17 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:16:17 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Element: ID: input-14, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Element: ID: input-14, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Element: ID: input-14, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:18 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:16:18 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:16:18 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Element: ID: input-15, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Element: ID: input-15, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:18 - jupyter_notebook - INFO - Element: ID: input-15, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:16:19 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:16:19 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:16:19 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:16:19 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:16:19 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:16:19 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:16:19 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:16:19 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:16:19 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:16:28 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: Message: element click intercepted: Element <button aria-label="... Work Experience" data-automation-id="Add Another" font-size="14" height="40" class="css-2g95d">Add Another</button> is not clickable at point (262, 1241). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:16:28 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: Message: element click intercepted: Element <button aria-label="... Work Experience" data-automation-id="Add Another" font-size="14" height="40" class="css-2g95d">Add Another</button> is not clickable at point (262, 1241). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:16:28 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: Message: element click intercepted: Element <button aria-label="... Work Experience" data-automation-id="Add Another" font-size="14" height="40" class="css-2g95d">Add Another</button> is not clickable at point (262, 1241). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:17:46 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:17:46 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:17:46 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:17:48 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:17:48 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:17:48 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:17:48 - jupyter_notebook - INFO - Element: ID: input-143, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:17:48 - jupyter_notebook - INFO - Element: ID: input-143, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:17:48 - jupyter_notebook - INFO - Element: ID: input-143, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:17:49 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:17:49 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:17:49 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:17:49 - jupyter_notebook - INFO - Element: ID: input-144, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:17:49 - jupyter_notebook - INFO - Element: ID: input-144, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:17:49 - jupyter_notebook - INFO - Element: ID: input-144, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:17:50 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:17:50 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:17:50 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:17:50 - jupyter_notebook - INFO - Element: ID: input-145, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:17:50 - jupyter_notebook - INFO - Element: ID: input-145, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:17:50 - jupyter_notebook - INFO - Element: ID: input-145, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:17:51 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:17:51 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:17:51 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:17:51 - jupyter_notebook - INFO - Element: ID: input-146, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:51 - jupyter_notebook - INFO - Element: ID: input-146, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:51 - jupyter_notebook - INFO - Element: ID: input-146, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:51 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:17:51 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:17:51 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:17:51 - jupyter_notebook - INFO - Element: ID: input-147, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:51 - jupyter_notebook - INFO - Element: ID: input-147, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:51 - jupyter_notebook - INFO - Element: ID: input-147, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Element: ID: input-148, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Element: ID: input-148, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Element: ID: input-148, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:17:52 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:17:52 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:17:52 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Element: ID: input-149, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Element: ID: input-149, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:52 - jupyter_notebook - INFO - Element: ID: input-149, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:53 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:17:53 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:17:53 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:17:53 - jupyter_notebook - INFO - Element: ID: input-150, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:53 - jupyter_notebook - INFO - Element: ID: input-150, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:53 - jupyter_notebook - INFO - Element: ID: input-150, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:53 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:17:53 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:17:53 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:17:53 - jupyter_notebook - INFO - Element: ID: input-151, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:17:53 - jupyter_notebook - INFO - Element: ID: input-151, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:17:53 - jupyter_notebook - INFO - Element: ID: input-151, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:17:54 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:17:54 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:17:54 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:17:54 - jupyter_notebook - INFO - Element: ID: input-152, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:54 - jupyter_notebook - INFO - Element: ID: input-152, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:54 - jupyter_notebook - INFO - Element: ID: input-152, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:55 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:17:55 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:17:55 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:17:55 - jupyter_notebook - INFO - Element: ID: input-154, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:17:55 - jupyter_notebook - INFO - Element: ID: input-154, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:17:55 - jupyter_notebook - INFO - Element: ID: input-154, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:17:55 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:17:55 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:17:55 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:17:55 - jupyter_notebook - INFO - Element: ID: input-155, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:17:55 - jupyter_notebook - INFO - Element: ID: input-155, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:17:55 - jupyter_notebook - INFO - Element: ID: input-155, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:17:57 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:17:57 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:17:57 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:17:57 - jupyter_notebook - INFO - Element: ID: input-156, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:57 - jupyter_notebook - INFO - Element: ID: input-156, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:57 - jupyter_notebook - INFO - Element: ID: input-156, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:58 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:17:58 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:17:58 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:17:58 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:17:58 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:17:58 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:17:58 - jupyter_notebook - INFO - Element: ID: input-157, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:58 - jupyter_notebook - INFO - Element: ID: input-157, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:58 - jupyter_notebook - INFO - Element: ID: input-157, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:17:58 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:17:58 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:17:58 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:17:59 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:17:59 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:17:59 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:17:59 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:17:59 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:17:59 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:18:03 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: Message: element click intercepted: Element <button aria-label="... Work Experience" data-automation-id="Add Another" font-size="14" height="40" class="css-2g95d">Add Another</button> is not clickable at point (262, 1241). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:18:03 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: Message: element click intercepted: Element <button aria-label="... Work Experience" data-automation-id="Add Another" font-size="14" height="40" class="css-2g95d">Add Another</button> is not clickable at point (262, 1241). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:18:03 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: Message: element click intercepted: Element <button aria-label="... Work Experience" data-automation-id="Add Another" font-size="14" height="40" class="css-2g95d">Add Another</button> is not clickable at point (262, 1241). Other element would receive the click: <div class="css-poz4k7">...</div>
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:20:24 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:20:24 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:20:24 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:20:26 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:20:26 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:20:26 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:20:27 - jupyter_notebook - INFO - Element: ID: input-353, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:20:27 - jupyter_notebook - INFO - Element: ID: input-353, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:20:27 - jupyter_notebook - INFO - Element: ID: input-353, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:20:31 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:20:31 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:20:31 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:20:31 - jupyter_notebook - INFO - Element: ID: input-354, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:20:31 - jupyter_notebook - INFO - Element: ID: input-354, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:20:31 - jupyter_notebook - INFO - Element: ID: input-354, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:20:32 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:20:32 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:20:32 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:20:32 - jupyter_notebook - INFO - Element: ID: input-355, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:20:32 - jupyter_notebook - INFO - Element: ID: input-355, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:20:32 - jupyter_notebook - INFO - Element: ID: input-355, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:20:35 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:20:35 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:20:35 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:20:35 - jupyter_notebook - INFO - Element: ID: input-356, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:35 - jupyter_notebook - INFO - Element: ID: input-356, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:35 - jupyter_notebook - INFO - Element: ID: input-356, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:36 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:20:36 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:20:36 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:20:36 - jupyter_notebook - INFO - Element: ID: input-357, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:36 - jupyter_notebook - INFO - Element: ID: input-357, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:36 - jupyter_notebook - INFO - Element: ID: input-357, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Element: ID: input-358, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Element: ID: input-358, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Element: ID: input-358, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:20:37 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:20:37 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:20:37 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Element: ID: input-359, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Element: ID: input-359, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:37 - jupyter_notebook - INFO - Element: ID: input-359, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:38 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:20:38 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:20:38 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:20:38 - jupyter_notebook - INFO - Element: ID: input-360, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:38 - jupyter_notebook - INFO - Element: ID: input-360, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:38 - jupyter_notebook - INFO - Element: ID: input-360, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:38 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:20:38 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:20:38 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:20:38 - jupyter_notebook - INFO - Element: ID: input-361, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:20:38 - jupyter_notebook - INFO - Element: ID: input-361, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:20:38 - jupyter_notebook - INFO - Element: ID: input-361, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:20:39 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:20:39 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:20:39 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:20:39 - jupyter_notebook - INFO - Element: ID: input-362, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:39 - jupyter_notebook - INFO - Element: ID: input-362, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:39 - jupyter_notebook - INFO - Element: ID: input-362, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:40 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:20:40 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:20:40 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:20:40 - jupyter_notebook - INFO - Element: ID: input-364, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:20:40 - jupyter_notebook - INFO - Element: ID: input-364, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:20:40 - jupyter_notebook - INFO - Element: ID: input-364, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:20:40 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:20:40 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:20:40 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:20:41 - jupyter_notebook - INFO - Element: ID: input-365, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:20:41 - jupyter_notebook - INFO - Element: ID: input-365, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:20:41 - jupyter_notebook - INFO - Element: ID: input-365, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:20:43 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:20:43 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:20:43 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Element: ID: input-366, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Element: ID: input-366, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Element: ID: input-366, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:43 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:20:43 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:20:43 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Element: ID: input-367, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Element: ID: input-367, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:43 - jupyter_notebook - INFO - Element: ID: input-367, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:20:44 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:20:44 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:20:44 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:20:48 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:20:48 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:20:48 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:20:48 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:20:48 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:20:48 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:20:48 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:20:48 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:20:48 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:20:48 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:20:48 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:20:48 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:20:48 - jupyter_notebook - WARNING - Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:20:48 - jupyter_notebook - WARNING - Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:20:48 - jupyter_notebook - WARNING - Error in function delete_sub_section, args: ("'Delete Work Experience'",),  error exception: Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=109.0.5414.120)
+
+2023-02-13 22:30:25 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:30:25 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:30:25 - jupyter_notebook - INFO - header names are: ['My Information']
+2023-02-13 22:30:26 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:30:26 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:30:26 - jupyter_notebook - INFO - answer found for question: How Did You Hear About Us?, answer is: LinkedIn, Other, OTR
+2023-02-13 22:30:26 - jupyter_notebook - INFO - Element: ID: input-858, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:30:26 - jupyter_notebook - INFO - Element: ID: input-858, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:30:26 - jupyter_notebook - INFO - Element: ID: input-858, tag: input, entry label: How Did You Hear About Us?, answer: LinkedIn, Other, OTR, answer type: MULTISELECT, is already in view
+2023-02-13 22:30:28 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:30:28 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:30:28 - jupyter_notebook - INFO - answer found for question: Have you ever worked for JCI or one of its affiliates?, answer is: No
+2023-02-13 22:30:28 - jupyter_notebook - INFO - Element: ID: input-859, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:30:28 - jupyter_notebook - INFO - Element: ID: input-859, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:30:28 - jupyter_notebook - INFO - Element: ID: input-859, tag: div, entry label: Have you ever worked for JCI or one of its affiliates?, answer: No, answer type: None, is already in view
+2023-02-13 22:30:28 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:30:28 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:30:28 - jupyter_notebook - INFO - answer found for question: Country / Territory, answer is: United States of America, USA, US
+2023-02-13 22:30:28 - jupyter_notebook - INFO - Element: ID: input-860, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:30:28 - jupyter_notebook - INFO - Element: ID: input-860, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:30:28 - jupyter_notebook - INFO - Element: ID: input-860, tag: button, entry label: Country / Territory, answer: United States of America, USA, US, answer type: LISTBOX, is already in view
+2023-02-13 22:30:29 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:30:29 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:30:29 - jupyter_notebook - INFO - answer found for question: First Name, answer is: John
+2023-02-13 22:30:29 - jupyter_notebook - INFO - Element: ID: input-861, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:29 - jupyter_notebook - INFO - Element: ID: input-861, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:29 - jupyter_notebook - INFO - Element: ID: input-861, tag: input, entry label: First Name, answer: John, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:29 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:30:29 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:30:29 - jupyter_notebook - INFO - answer found for question: Last Name, answer is: Smith
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-862, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-862, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-862, tag: input, entry label: Last Name, answer: Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Similarity too low, could not find match for question , set answer to blank
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-863, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-863, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-863, tag: input, entry label: , answer: , answer type: CHECKBOX, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:30:30 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:30:30 - jupyter_notebook - INFO - answer found for question: Address Line 1, answer is: 1234 Example St
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-864, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-864, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:30 - jupyter_notebook - INFO - Element: ID: input-864, tag: input, entry label: Address Line 1, answer: 1234 Example St, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:31 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:30:31 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:30:31 - jupyter_notebook - INFO - answer found for question: City, answer is: Plano
+2023-02-13 22:30:31 - jupyter_notebook - INFO - Element: ID: input-865, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:31 - jupyter_notebook - INFO - Element: ID: input-865, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:31 - jupyter_notebook - INFO - Element: ID: input-865, tag: input, entry label: City, answer: Plano, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:31 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:30:31 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:30:31 - jupyter_notebook - INFO - answer found for question: State, answer is: Texas, TX
+2023-02-13 22:30:31 - jupyter_notebook - INFO - Element: ID: input-866, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:30:31 - jupyter_notebook - INFO - Element: ID: input-866, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:30:31 - jupyter_notebook - INFO - Element: ID: input-866, tag: button, entry label: State, answer: Texas, TX, answer type: LISTBOX, is already in view
+2023-02-13 22:30:32 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:30:32 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:30:32 - jupyter_notebook - INFO - answer found for question: Postal Code, answer is: 75074
+2023-02-13 22:30:32 - jupyter_notebook - INFO - Element: ID: input-867, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:32 - jupyter_notebook - INFO - Element: ID: input-867, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:32 - jupyter_notebook - INFO - Element: ID: input-867, tag: input, entry label: Postal Code, answer: 75074, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:33 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:30:33 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:30:33 - jupyter_notebook - INFO - answer found for question: Phone Device Type, answer is: CELL
+2023-02-13 22:30:33 - jupyter_notebook - INFO - Element: ID: input-869, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:30:33 - jupyter_notebook - INFO - Element: ID: input-869, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:30:33 - jupyter_notebook - INFO - Element: ID: input-869, tag: button, entry label: Phone Device Type, answer: CELL, answer type: LISTBOX, is already in view
+2023-02-13 22:30:33 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:30:33 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:30:33 - jupyter_notebook - INFO - answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
+2023-02-13 22:30:33 - jupyter_notebook - INFO - Element: ID: input-870, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:30:33 - jupyter_notebook - INFO - Element: ID: input-870, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:30:33 - jupyter_notebook - INFO - Element: ID: input-870, tag: input, entry label: Country / Territory Phone Code, answer: United States of America (+1), answer type: MULTISELECT, is already in view
+2023-02-13 22:30:35 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:30:35 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:30:35 - jupyter_notebook - INFO - answer found for question: Phone Number, answer is: 9493312129
+2023-02-13 22:30:35 - jupyter_notebook - INFO - Element: ID: input-871, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:35 - jupyter_notebook - INFO - Element: ID: input-871, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:35 - jupyter_notebook - INFO - Element: ID: input-871, tag: input, entry label: Phone Number, answer: 9493312129, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:36 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:30:36 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:30:36 - jupyter_notebook - INFO - answer found for question: Phone Extension, answer is: nan
+2023-02-13 22:30:36 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:30:36 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:30:36 - jupyter_notebook - INFO - Answer in database for Phone Extension is NaN, set answer to blank
+2023-02-13 22:30:36 - jupyter_notebook - INFO - Element: ID: input-872, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:36 - jupyter_notebook - INFO - Element: ID: input-872, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:36 - jupyter_notebook - INFO - Element: ID: input-872, tag: input, entry label: Phone Extension, answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:36 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:30:36 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:30:36 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:30:41 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:30:41 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:30:41 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:30:41 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:30:41 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:30:41 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:30:41 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:30:41 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:30:41 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:30:41 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:30:41 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:30:41 - jupyter_notebook - INFO - delete button: 'Delete Work Experience' found
+2023-02-13 22:30:42 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:30:42 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:30:42 - jupyter_notebook - INFO - clicked on button: Delete Work Experience 1
+2023-02-13 22:30:42 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:30:42 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:30:42 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:30:44 - jupyter_notebook - INFO - answer found for question: Job Title, answer is: Investigator
+2023-02-13 22:30:44 - jupyter_notebook - INFO - answer found for question: Job Title, answer is: Investigator
+2023-02-13 22:30:44 - jupyter_notebook - INFO - answer found for question: Job Title, answer is: Investigator
+2023-02-13 22:30:44 - jupyter_notebook - INFO - Element: ID: input-984, tag: input, entry label: Job Title, answer: Investigator, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:44 - jupyter_notebook - INFO - Element: ID: input-984, tag: input, entry label: Job Title, answer: Investigator, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:44 - jupyter_notebook - INFO - Element: ID: input-984, tag: input, entry label: Job Title, answer: Investigator, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:45 - jupyter_notebook - INFO - answer found for question: Company, answer is: Investigations Inc
+2023-02-13 22:30:45 - jupyter_notebook - INFO - answer found for question: Company, answer is: Investigations Inc
+2023-02-13 22:30:45 - jupyter_notebook - INFO - answer found for question: Company, answer is: Investigations Inc
+2023-02-13 22:30:45 - jupyter_notebook - INFO - Element: ID: input-985, tag: input, entry label: Company, answer: Investigations Inc, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:45 - jupyter_notebook - INFO - Element: ID: input-985, tag: input, entry label: Company, answer: Investigations Inc, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:45 - jupyter_notebook - INFO - Element: ID: input-985, tag: input, entry label: Company, answer: Investigations Inc, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:45 - jupyter_notebook - INFO - answer found for question: Location, answer is: 1234 auto st
+2023-02-13 22:30:45 - jupyter_notebook - INFO - answer found for question: Location, answer is: 1234 auto st
+2023-02-13 22:30:45 - jupyter_notebook - INFO - answer found for question: Location, answer is: 1234 auto st
+2023-02-13 22:30:45 - jupyter_notebook - INFO - Element: ID: input-986, tag: input, entry label: Location, answer: 1234 auto st, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:45 - jupyter_notebook - INFO - Element: ID: input-986, tag: input, entry label: Location, answer: 1234 auto st, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:45 - jupyter_notebook - INFO - Element: ID: input-986, tag: input, entry label: Location, answer: 1234 auto st, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:46 - jupyter_notebook - INFO - answer found for question: I currently work here, answer is: yes
+2023-02-13 22:30:46 - jupyter_notebook - INFO - answer found for question: I currently work here, answer is: yes
+2023-02-13 22:30:46 - jupyter_notebook - INFO - answer found for question: I currently work here, answer is: yes
+2023-02-13 22:30:46 - jupyter_notebook - INFO - Element: ID: input-987, tag: input, entry label: I currently work here, answer: yes, answer type: CHECKBOX, is already in view
+2023-02-13 22:30:46 - jupyter_notebook - INFO - Element: ID: input-987, tag: input, entry label: I currently work here, answer: yes, answer type: CHECKBOX, is already in view
+2023-02-13 22:30:46 - jupyter_notebook - INFO - Element: ID: input-987, tag: input, entry label: I currently work here, answer: yes, answer type: CHECKBOX, is already in view
+2023-02-13 22:30:47 - jupyter_notebook - INFO - answer found for question: From, answer is: 1/3/2023
+2023-02-13 22:30:47 - jupyter_notebook - INFO - answer found for question: From, answer is: 1/3/2023
+2023-02-13 22:30:47 - jupyter_notebook - INFO - answer found for question: From, answer is: 1/3/2023
+2023-02-13 22:30:47 - jupyter_notebook - INFO - Element: ID: input-990, tag: div, entry label: From, answer: 1/3/2023, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:47 - jupyter_notebook - INFO - Element: ID: input-990, tag: div, entry label: From, answer: 1/3/2023, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:47 - jupyter_notebook - INFO - Element: ID: input-990, tag: div, entry label: From, answer: 1/3/2023, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:48 - jupyter_notebook - ERROR - Checking if element in input list failed
+2023-02-13 22:30:48 - jupyter_notebook - ERROR - Checking if element in input list failed
+2023-02-13 22:30:48 - jupyter_notebook - ERROR - Checking if element in input list failed
+2023-02-13 22:30:48 - jupyter_notebook - INFO - answer found for question: Role Description, answer is: Work super hard, trust me bro
+2023-02-13 22:30:48 - jupyter_notebook - INFO - answer found for question: Role Description, answer is: Work super hard, trust me bro
+2023-02-13 22:30:48 - jupyter_notebook - INFO - answer found for question: Role Description, answer is: Work super hard, trust me bro
+2023-02-13 22:30:48 - jupyter_notebook - INFO - Element: ID: input-994, tag: textarea, entry label: Role Description, answer: Work super hard, trust me bro, answer type: TEXTAREA, is already in view
+2023-02-13 22:30:48 - jupyter_notebook - INFO - Element: ID: input-994, tag: textarea, entry label: Role Description, answer: Work super hard, trust me bro, answer type: TEXTAREA, is already in view
+2023-02-13 22:30:48 - jupyter_notebook - INFO - Element: ID: input-994, tag: textarea, entry label: Role Description, answer: Work super hard, trust me bro, answer type: TEXTAREA, is already in view
+2023-02-13 22:30:50 - jupyter_notebook - INFO - answer found for question: Job Title, answer is: Sales
+2023-02-13 22:30:50 - jupyter_notebook - INFO - answer found for question: Job Title, answer is: Sales
+2023-02-13 22:30:50 - jupyter_notebook - INFO - answer found for question: Job Title, answer is: Sales
+2023-02-13 22:30:50 - jupyter_notebook - INFO - Element: ID: input-1127, tag: input, entry label: Job Title, answer: Sales, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:50 - jupyter_notebook - INFO - Element: ID: input-1127, tag: input, entry label: Job Title, answer: Sales, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:50 - jupyter_notebook - INFO - Element: ID: input-1127, tag: input, entry label: Job Title, answer: Sales, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:50 - jupyter_notebook - INFO - answer found for question: Company, answer is: Example Co
+2023-02-13 22:30:50 - jupyter_notebook - INFO - answer found for question: Company, answer is: Example Co
+2023-02-13 22:30:50 - jupyter_notebook - INFO - answer found for question: Company, answer is: Example Co
+2023-02-13 22:30:50 - jupyter_notebook - INFO - Element: ID: input-1128, tag: input, entry label: Company, answer: Example Co, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:50 - jupyter_notebook - INFO - Element: ID: input-1128, tag: input, entry label: Company, answer: Example Co, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:50 - jupyter_notebook - INFO - Element: ID: input-1128, tag: input, entry label: Company, answer: Example Co, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:51 - jupyter_notebook - INFO - answer found for question: Location, answer is: 568 automation drive
+2023-02-13 22:30:51 - jupyter_notebook - INFO - answer found for question: Location, answer is: 568 automation drive
+2023-02-13 22:30:51 - jupyter_notebook - INFO - answer found for question: Location, answer is: 568 automation drive
+2023-02-13 22:30:51 - jupyter_notebook - INFO - Element: ID: input-1129, tag: input, entry label: Location, answer: 568 automation drive, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:51 - jupyter_notebook - INFO - Element: ID: input-1129, tag: input, entry label: Location, answer: 568 automation drive, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:51 - jupyter_notebook - INFO - Element: ID: input-1129, tag: input, entry label: Location, answer: 568 automation drive, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:52 - jupyter_notebook - INFO - answer found for question: I currently work here, answer is: no
+2023-02-13 22:30:52 - jupyter_notebook - INFO - answer found for question: I currently work here, answer is: no
+2023-02-13 22:30:52 - jupyter_notebook - INFO - answer found for question: I currently work here, answer is: no
+2023-02-13 22:30:52 - jupyter_notebook - INFO - Element: ID: input-1130, tag: input, entry label: I currently work here, answer: no, answer type: CHECKBOX, is already in view
+2023-02-13 22:30:52 - jupyter_notebook - INFO - Element: ID: input-1130, tag: input, entry label: I currently work here, answer: no, answer type: CHECKBOX, is already in view
+2023-02-13 22:30:52 - jupyter_notebook - INFO - Element: ID: input-1130, tag: input, entry label: I currently work here, answer: no, answer type: CHECKBOX, is already in view
+2023-02-13 22:30:52 - jupyter_notebook - INFO - answer found for question: From, answer is: 02/18/2021
+2023-02-13 22:30:52 - jupyter_notebook - INFO - answer found for question: From, answer is: 02/18/2021
+2023-02-13 22:30:52 - jupyter_notebook - INFO - answer found for question: From, answer is: 02/18/2021
+2023-02-13 22:30:52 - jupyter_notebook - INFO - Element: ID: input-1133, tag: div, entry label: From, answer: 02/18/2021, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:52 - jupyter_notebook - INFO - Element: ID: input-1133, tag: div, entry label: From, answer: 02/18/2021, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:52 - jupyter_notebook - INFO - Element: ID: input-1133, tag: div, entry label: From, answer: 02/18/2021, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:54 - jupyter_notebook - INFO - answer found for question: To, answer is: 06/28/2022
+2023-02-13 22:30:54 - jupyter_notebook - INFO - answer found for question: To, answer is: 06/28/2022
+2023-02-13 22:30:54 - jupyter_notebook - INFO - answer found for question: To, answer is: 06/28/2022
+2023-02-13 22:30:54 - jupyter_notebook - INFO - Element: ID: input-1136, tag: div, entry label: To, answer: 06/28/2022, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:54 - jupyter_notebook - INFO - Element: ID: input-1136, tag: div, entry label: To, answer: 06/28/2022, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:54 - jupyter_notebook - INFO - Element: ID: input-1136, tag: div, entry label: To, answer: 06/28/2022, answer type: DATE_MONTH_YEAR, is already in view
+2023-02-13 22:30:54 - jupyter_notebook - INFO - answer found for question: Role Description, answer is: example role description
+2023-02-13 22:30:54 - jupyter_notebook - INFO - answer found for question: Role Description, answer is: example role description
+2023-02-13 22:30:54 - jupyter_notebook - INFO - answer found for question: Role Description, answer is: example role description
+2023-02-13 22:30:54 - jupyter_notebook - INFO - Element: ID: input-1137, tag: textarea, entry label: Role Description, answer: example role description, answer type: TEXTAREA, is already in view
+2023-02-13 22:30:54 - jupyter_notebook - INFO - Element: ID: input-1137, tag: textarea, entry label: Role Description, answer: example role description, answer type: TEXTAREA, is already in view
+2023-02-13 22:30:54 - jupyter_notebook - INFO - Element: ID: input-1137, tag: textarea, entry label: Role Description, answer: example role description, answer type: TEXTAREA, is already in view
+2023-02-13 22:30:55 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Education'
+2023-02-13 22:30:55 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Education'
+2023-02-13 22:30:55 - jupyter_notebook - INFO - Found 2 delete buttons starting with aria-label: 'Delete Education'
+2023-02-13 22:30:55 - jupyter_notebook - INFO - delete button: 'Delete Education' found
+2023-02-13 22:30:55 - jupyter_notebook - INFO - delete button: 'Delete Education' found
+2023-02-13 22:30:55 - jupyter_notebook - INFO - delete button: 'Delete Education' found
+2023-02-13 22:30:55 - jupyter_notebook - INFO - clicked on button: Delete Education 1
+2023-02-13 22:30:55 - jupyter_notebook - INFO - clicked on button: Delete Education 1
+2023-02-13 22:30:55 - jupyter_notebook - INFO - clicked on button: Delete Education 1
+2023-02-13 22:30:55 - jupyter_notebook - INFO - delete button: 'Delete Education' found
+2023-02-13 22:30:55 - jupyter_notebook - INFO - delete button: 'Delete Education' found
+2023-02-13 22:30:55 - jupyter_notebook - INFO - delete button: 'Delete Education' found
+2023-02-13 22:30:55 - jupyter_notebook - INFO - clicked on button: Delete Education 1
+2023-02-13 22:30:55 - jupyter_notebook - INFO - clicked on button: Delete Education 1
+2023-02-13 22:30:55 - jupyter_notebook - INFO - clicked on button: Delete Education 1
+2023-02-13 22:30:56 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Education'
+2023-02-13 22:30:56 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Education'
+2023-02-13 22:30:56 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Education'
+2023-02-13 22:30:58 - jupyter_notebook - INFO - answer found for question: School or University, answer is: California State Polytechnic University Pomona
+2023-02-13 22:30:58 - jupyter_notebook - INFO - answer found for question: School or University, answer is: California State Polytechnic University Pomona
+2023-02-13 22:30:58 - jupyter_notebook - INFO - answer found for question: School or University, answer is: California State Polytechnic University Pomona
+2023-02-13 22:30:58 - jupyter_notebook - INFO - Element: ID: input-1334, tag: input, entry label: School or University, answer: California State Polytechnic University Pomona, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:58 - jupyter_notebook - INFO - Element: ID: input-1334, tag: input, entry label: School or University, answer: California State Polytechnic University Pomona, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:58 - jupyter_notebook - INFO - Element: ID: input-1334, tag: input, entry label: School or University, answer: California State Polytechnic University Pomona, answer type: TEXTINPUT, is already in view
+2023-02-13 22:30:58 - jupyter_notebook - INFO - answer found for question: Degree, answer is: Bachelors Degree
+2023-02-13 22:30:58 - jupyter_notebook - INFO - answer found for question: Degree, answer is: Bachelors Degree
+2023-02-13 22:30:58 - jupyter_notebook - INFO - answer found for question: Degree, answer is: Bachelors Degree
+2023-02-13 22:30:59 - jupyter_notebook - INFO - Element: ID: input-1335, tag: button, entry label: Degree, answer: Bachelors Degree, answer type: LISTBOX, is already in view
+2023-02-13 22:30:59 - jupyter_notebook - INFO - Element: ID: input-1335, tag: button, entry label: Degree, answer: Bachelors Degree, answer type: LISTBOX, is already in view
+2023-02-13 22:30:59 - jupyter_notebook - INFO - Element: ID: input-1335, tag: button, entry label: Degree, answer: Bachelors Degree, answer type: LISTBOX, is already in view
+2023-02-13 22:30:59 - jupyter_notebook - INFO - answer found for question: Field of Study, answer is: Mechanical engineering
+2023-02-13 22:30:59 - jupyter_notebook - INFO - answer found for question: Field of Study, answer is: Mechanical engineering
+2023-02-13 22:30:59 - jupyter_notebook - INFO - answer found for question: Field of Study, answer is: Mechanical engineering
+2023-02-13 22:30:59 - jupyter_notebook - INFO - Element: ID: input-1336, tag: input, entry label: Field of Study, answer: Mechanical engineering, answer type: MULTISELECT, is already in view
+2023-02-13 22:30:59 - jupyter_notebook - INFO - Element: ID: input-1336, tag: input, entry label: Field of Study, answer: Mechanical engineering, answer type: MULTISELECT, is already in view
+2023-02-13 22:30:59 - jupyter_notebook - INFO - Element: ID: input-1336, tag: input, entry label: Field of Study, answer: Mechanical engineering, answer type: MULTISELECT, is already in view
+2023-02-13 22:31:01 - jupyter_notebook - INFO - answer found for question: Overall Result (GPA), answer is: 3.5
+2023-02-13 22:31:01 - jupyter_notebook - INFO - answer found for question: Overall Result (GPA), answer is: 3.5
+2023-02-13 22:31:01 - jupyter_notebook - INFO - answer found for question: Overall Result (GPA), answer is: 3.5
+2023-02-13 22:31:01 - jupyter_notebook - INFO - Element: ID: input-1337, tag: input, entry label: Overall Result (GPA), answer: 3.5, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:01 - jupyter_notebook - INFO - Element: ID: input-1337, tag: input, entry label: Overall Result (GPA), answer: 3.5, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:01 - jupyter_notebook - INFO - Element: ID: input-1337, tag: input, entry label: Overall Result (GPA), answer: 3.5, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:03 - jupyter_notebook - INFO - answer found for question: From, answer is: 01/01/2019
+2023-02-13 22:31:03 - jupyter_notebook - INFO - answer found for question: From, answer is: 01/01/2019
+2023-02-13 22:31:03 - jupyter_notebook - INFO - answer found for question: From, answer is: 01/01/2019
+2023-02-13 22:31:03 - jupyter_notebook - INFO - Element: ID: input-1340, tag: div, entry label: From, answer: 01/01/2019, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:03 - jupyter_notebook - INFO - Element: ID: input-1340, tag: div, entry label: From, answer: 01/01/2019, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:03 - jupyter_notebook - INFO - Element: ID: input-1340, tag: div, entry label: From, answer: 01/01/2019, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:04 - jupyter_notebook - INFO - answer found for question: To (Actual or Expected), answer is: 02/05/2022
+2023-02-13 22:31:04 - jupyter_notebook - INFO - answer found for question: To (Actual or Expected), answer is: 02/05/2022
+2023-02-13 22:31:04 - jupyter_notebook - INFO - answer found for question: To (Actual or Expected), answer is: 02/05/2022
+2023-02-13 22:31:04 - jupyter_notebook - INFO - Element: ID: input-1343, tag: div, entry label: To (Actual or Expected), answer: 02/05/2022, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:04 - jupyter_notebook - INFO - Element: ID: input-1343, tag: div, entry label: To (Actual or Expected), answer: 02/05/2022, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:04 - jupyter_notebook - INFO - Element: ID: input-1343, tag: div, entry label: To (Actual or Expected), answer: 02/05/2022, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:06 - jupyter_notebook - INFO - answer found for question: School or University, answer is: Example University
+2023-02-13 22:31:06 - jupyter_notebook - INFO - answer found for question: School or University, answer is: Example University
+2023-02-13 22:31:06 - jupyter_notebook - INFO - answer found for question: School or University, answer is: Example University
+2023-02-13 22:31:06 - jupyter_notebook - INFO - Element: ID: input-1454, tag: input, entry label: School or University, answer: Example University, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:06 - jupyter_notebook - INFO - Element: ID: input-1454, tag: input, entry label: School or University, answer: Example University, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:06 - jupyter_notebook - INFO - Element: ID: input-1454, tag: input, entry label: School or University, answer: Example University, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:07 - jupyter_notebook - INFO - answer found for question: Degree, answer is: Bachelors Degree
+2023-02-13 22:31:07 - jupyter_notebook - INFO - answer found for question: Degree, answer is: Bachelors Degree
+2023-02-13 22:31:07 - jupyter_notebook - INFO - answer found for question: Degree, answer is: Bachelors Degree
+2023-02-13 22:31:07 - jupyter_notebook - INFO - Element: ID: input-1455, tag: button, entry label: Degree, answer: Bachelors Degree, answer type: LISTBOX, is already in view
+2023-02-13 22:31:07 - jupyter_notebook - INFO - Element: ID: input-1455, tag: button, entry label: Degree, answer: Bachelors Degree, answer type: LISTBOX, is already in view
+2023-02-13 22:31:07 - jupyter_notebook - INFO - Element: ID: input-1455, tag: button, entry label: Degree, answer: Bachelors Degree, answer type: LISTBOX, is already in view
+2023-02-13 22:31:07 - jupyter_notebook - INFO - answer found for question: Field of Study, answer is: Accounting
+2023-02-13 22:31:07 - jupyter_notebook - INFO - answer found for question: Field of Study, answer is: Accounting
+2023-02-13 22:31:07 - jupyter_notebook - INFO - answer found for question: Field of Study, answer is: Accounting
+2023-02-13 22:31:07 - jupyter_notebook - INFO - Element: ID: input-1456, tag: input, entry label: Field of Study, answer: Accounting, answer type: MULTISELECT, is already in view
+2023-02-13 22:31:07 - jupyter_notebook - INFO - Element: ID: input-1456, tag: input, entry label: Field of Study, answer: Accounting, answer type: MULTISELECT, is already in view
+2023-02-13 22:31:07 - jupyter_notebook - INFO - Element: ID: input-1456, tag: input, entry label: Field of Study, answer: Accounting, answer type: MULTISELECT, is already in view
+2023-02-13 22:31:09 - jupyter_notebook - INFO - answer found for question: Overall Result (GPA), answer is: 3
+2023-02-13 22:31:09 - jupyter_notebook - INFO - answer found for question: Overall Result (GPA), answer is: 3
+2023-02-13 22:31:09 - jupyter_notebook - INFO - answer found for question: Overall Result (GPA), answer is: 3
+2023-02-13 22:31:09 - jupyter_notebook - INFO - Element: ID: input-1457, tag: input, entry label: Overall Result (GPA), answer: 3, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:09 - jupyter_notebook - INFO - Element: ID: input-1457, tag: input, entry label: Overall Result (GPA), answer: 3, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:09 - jupyter_notebook - INFO - Element: ID: input-1457, tag: input, entry label: Overall Result (GPA), answer: 3, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:11 - jupyter_notebook - INFO - answer found for question: From, answer is: 01/01/2016
+2023-02-13 22:31:11 - jupyter_notebook - INFO - answer found for question: From, answer is: 01/01/2016
+2023-02-13 22:31:11 - jupyter_notebook - INFO - answer found for question: From, answer is: 01/01/2016
+2023-02-13 22:31:11 - jupyter_notebook - INFO - Element: ID: input-1460, tag: div, entry label: From, answer: 01/01/2016, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:11 - jupyter_notebook - INFO - Element: ID: input-1460, tag: div, entry label: From, answer: 01/01/2016, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:11 - jupyter_notebook - INFO - Element: ID: input-1460, tag: div, entry label: From, answer: 01/01/2016, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:12 - jupyter_notebook - INFO - answer found for question: To (Actual or Expected), answer is: 01/01/2021
+2023-02-13 22:31:12 - jupyter_notebook - INFO - answer found for question: To (Actual or Expected), answer is: 01/01/2021
+2023-02-13 22:31:12 - jupyter_notebook - INFO - answer found for question: To (Actual or Expected), answer is: 01/01/2021
+2023-02-13 22:31:12 - jupyter_notebook - INFO - Element: ID: input-1463, tag: div, entry label: To (Actual or Expected), answer: 01/01/2021, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:12 - jupyter_notebook - INFO - Element: ID: input-1463, tag: div, entry label: To (Actual or Expected), answer: 01/01/2021, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:12 - jupyter_notebook - INFO - Element: ID: input-1463, tag: div, entry label: To (Actual or Expected), answer: 01/01/2021, answer type: DATE_YEAR, is already in view
+2023-02-13 22:31:13 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:13 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:13 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:17 - jupyter_notebook - INFO - answer found for question: Are you at least 18 years of age? (If not, your employment is subject to verification that you are of at least legal age and that you are able to supply any required work permit)., answer is: Yes
+2023-02-13 22:31:17 - jupyter_notebook - INFO - answer found for question: Are you at least 18 years of age? (If not, your employment is subject to verification that you are of at least legal age and that you are able to supply any required work permit)., answer is: Yes
+2023-02-13 22:31:17 - jupyter_notebook - INFO - answer found for question: Are you at least 18 years of age? (If not, your employment is subject to verification that you are of at least legal age and that you are able to supply any required work permit)., answer is: Yes
+2023-02-13 22:31:17 - jupyter_notebook - INFO - Element: ID: input-1696, tag: button, entry label: Are you at least 18 years of age? (If not, your employment is subject to verification that you are of at least legal age and that you are able to supply any required work permit)., answer: Yes, answer type: LISTBOX, is already in view
+2023-02-13 22:31:17 - jupyter_notebook - INFO - Element: ID: input-1696, tag: button, entry label: Are you at least 18 years of age? (If not, your employment is subject to verification that you are of at least legal age and that you are able to supply any required work permit)., answer: Yes, answer type: LISTBOX, is already in view
+2023-02-13 22:31:17 - jupyter_notebook - INFO - Element: ID: input-1696, tag: button, entry label: Are you at least 18 years of age? (If not, your employment is subject to verification that you are of at least legal age and that you are able to supply any required work permit)., answer: Yes, answer type: LISTBOX, is already in view
+2023-02-13 22:31:18 - jupyter_notebook - INFO - answer found for question: Are you legally eligible to work in the country to which you are applying?, answer is: Yes
+2023-02-13 22:31:18 - jupyter_notebook - INFO - answer found for question: Are you legally eligible to work in the country to which you are applying?, answer is: Yes
+2023-02-13 22:31:18 - jupyter_notebook - INFO - answer found for question: Are you legally eligible to work in the country to which you are applying?, answer is: Yes
+2023-02-13 22:31:18 - jupyter_notebook - INFO - Element: ID: input-1698, tag: button, entry label: Are you legally eligible to work in the country to which you are applying?, answer: Yes, answer type: LISTBOX, is already in view
+2023-02-13 22:31:18 - jupyter_notebook - INFO - Element: ID: input-1698, tag: button, entry label: Are you legally eligible to work in the country to which you are applying?, answer: Yes, answer type: LISTBOX, is already in view
+2023-02-13 22:31:18 - jupyter_notebook - INFO - Element: ID: input-1698, tag: button, entry label: Are you legally eligible to work in the country to which you are applying?, answer: Yes, answer type: LISTBOX, is already in view
+2023-02-13 22:31:18 - jupyter_notebook - INFO - answer found for question: Will you now or in the future require sponsorship for employment Visa status to be eligible to work in the country to which you are applying?(e.g., H-1B Visa status/Work Visa/Work Permit)?, answer is: No
+2023-02-13 22:31:18 - jupyter_notebook - INFO - answer found for question: Will you now or in the future require sponsorship for employment Visa status to be eligible to work in the country to which you are applying?(e.g., H-1B Visa status/Work Visa/Work Permit)?, answer is: No
+2023-02-13 22:31:18 - jupyter_notebook - INFO - answer found for question: Will you now or in the future require sponsorship for employment Visa status to be eligible to work in the country to which you are applying?(e.g., H-1B Visa status/Work Visa/Work Permit)?, answer is: No
+2023-02-13 22:31:18 - jupyter_notebook - INFO - Element: ID: input-1700, tag: button, entry label: Will you now or in the future require sponsorship for employment Visa status to be eligible to work in the country to which you are applying?(e.g., H-1B Visa status/Work Visa/Work Permit)?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:18 - jupyter_notebook - INFO - Element: ID: input-1700, tag: button, entry label: Will you now or in the future require sponsorship for employment Visa status to be eligible to work in the country to which you are applying?(e.g., H-1B Visa status/Work Visa/Work Permit)?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:18 - jupyter_notebook - INFO - Element: ID: input-1700, tag: button, entry label: Will you now or in the future require sponsorship for employment Visa status to be eligible to work in the country to which you are applying?(e.g., H-1B Visa status/Work Visa/Work Permit)?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:19 - jupyter_notebook - INFO - answer found for question: Have you ever been granted a government Security Clearance?, answer is: No
+2023-02-13 22:31:19 - jupyter_notebook - INFO - answer found for question: Have you ever been granted a government Security Clearance?, answer is: No
+2023-02-13 22:31:19 - jupyter_notebook - INFO - answer found for question: Have you ever been granted a government Security Clearance?, answer is: No
+2023-02-13 22:31:19 - jupyter_notebook - INFO - Element: ID: input-1702, tag: button, entry label: Have you ever been granted a government Security Clearance?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:19 - jupyter_notebook - INFO - Element: ID: input-1702, tag: button, entry label: Have you ever been granted a government Security Clearance?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:19 - jupyter_notebook - INFO - Element: ID: input-1702, tag: button, entry label: Have you ever been granted a government Security Clearance?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:19 - jupyter_notebook - INFO - answer found for question: Have you signed an employment agreement or any kind of restrictive covenant, covenant not to compete, non-solicitation, or a contract of any kind that might restrict your ability to perform duties for this Company?, answer is: No
+2023-02-13 22:31:19 - jupyter_notebook - INFO - answer found for question: Have you signed an employment agreement or any kind of restrictive covenant, covenant not to compete, non-solicitation, or a contract of any kind that might restrict your ability to perform duties for this Company?, answer is: No
+2023-02-13 22:31:19 - jupyter_notebook - INFO - answer found for question: Have you signed an employment agreement or any kind of restrictive covenant, covenant not to compete, non-solicitation, or a contract of any kind that might restrict your ability to perform duties for this Company?, answer is: No
+2023-02-13 22:31:19 - jupyter_notebook - INFO - Element: ID: input-1704, tag: button, entry label: Have you signed an employment agreement or any kind of restrictive covenant, covenant not to compete, non-solicitation, or a contract of any kind that might restrict your ability to perform duties for this Company?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:19 - jupyter_notebook - INFO - Element: ID: input-1704, tag: button, entry label: Have you signed an employment agreement or any kind of restrictive covenant, covenant not to compete, non-solicitation, or a contract of any kind that might restrict your ability to perform duties for this Company?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:19 - jupyter_notebook - INFO - Element: ID: input-1704, tag: button, entry label: Have you signed an employment agreement or any kind of restrictive covenant, covenant not to compete, non-solicitation, or a contract of any kind that might restrict your ability to perform duties for this Company?, answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:20 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:20 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:20 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:23 - jupyter_notebook - INFO - answer found for question: Please select your gender which most accurately describes how you identify yourself., answer is: Male
+2023-02-13 22:31:23 - jupyter_notebook - INFO - answer found for question: Please select your gender which most accurately describes how you identify yourself., answer is: Male
+2023-02-13 22:31:23 - jupyter_notebook - INFO - answer found for question: Please select your gender which most accurately describes how you identify yourself., answer is: Male
+2023-02-13 22:31:23 - jupyter_notebook - INFO - Element: ID: input-1705, tag: button, entry label: Please select your gender which most accurately describes how you identify yourself., answer: Male, answer type: LISTBOX, is already in view
+2023-02-13 22:31:23 - jupyter_notebook - INFO - Element: ID: input-1705, tag: button, entry label: Please select your gender which most accurately describes how you identify yourself., answer: Male, answer type: LISTBOX, is already in view
+2023-02-13 22:31:23 - jupyter_notebook - INFO - Element: ID: input-1705, tag: button, entry label: Please select your gender which most accurately describes how you identify yourself., answer: Male, answer type: LISTBOX, is already in view
+2023-02-13 22:31:23 - jupyter_notebook - INFO - answer found for question: Please select your race which most accurately describes how you identify yourself., answer is: White (United States of America)
+2023-02-13 22:31:23 - jupyter_notebook - INFO - answer found for question: Please select your race which most accurately describes how you identify yourself., answer is: White (United States of America)
+2023-02-13 22:31:23 - jupyter_notebook - INFO - answer found for question: Please select your race which most accurately describes how you identify yourself., answer is: White (United States of America)
+2023-02-13 22:31:23 - jupyter_notebook - INFO - Element: ID: input-1706, tag: button, entry label: Please select your race which most accurately describes how you identify yourself., answer: White (United States of America), answer type: LISTBOX, is already in view
+2023-02-13 22:31:23 - jupyter_notebook - INFO - Element: ID: input-1706, tag: button, entry label: Please select your race which most accurately describes how you identify yourself., answer: White (United States of America), answer type: LISTBOX, is already in view
+2023-02-13 22:31:23 - jupyter_notebook - INFO - Element: ID: input-1706, tag: button, entry label: Please select your race which most accurately describes how you identify yourself., answer: White (United States of America), answer type: LISTBOX, is already in view
+2023-02-13 22:31:24 - jupyter_notebook - INFO - answer found for question: Please indicate if you are Hispanic or Latino., answer is: No
+2023-02-13 22:31:24 - jupyter_notebook - INFO - answer found for question: Please indicate if you are Hispanic or Latino., answer is: No
+2023-02-13 22:31:24 - jupyter_notebook - INFO - answer found for question: Please indicate if you are Hispanic or Latino., answer is: No
+2023-02-13 22:31:24 - jupyter_notebook - INFO - Element: ID: input-1707, tag: button, entry label: Please indicate if you are Hispanic or Latino., answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:24 - jupyter_notebook - INFO - Element: ID: input-1707, tag: button, entry label: Please indicate if you are Hispanic or Latino., answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:24 - jupyter_notebook - INFO - Element: ID: input-1707, tag: button, entry label: Please indicate if you are Hispanic or Latino., answer: No, answer type: LISTBOX, is already in view
+2023-02-13 22:31:24 - jupyter_notebook - INFO - answer found for question: Please select the veteran status which most accurately describes your status., answer is: I AM NOT A VETERAN
+2023-02-13 22:31:24 - jupyter_notebook - INFO - answer found for question: Please select the veteran status which most accurately describes your status., answer is: I AM NOT A VETERAN
+2023-02-13 22:31:24 - jupyter_notebook - INFO - answer found for question: Please select the veteran status which most accurately describes your status., answer is: I AM NOT A VETERAN
+2023-02-13 22:31:25 - jupyter_notebook - INFO - Element: ID: input-1708, tag: button, entry label: Please select the veteran status which most accurately describes your status., answer: I AM NOT A VETERAN, answer type: LISTBOX, is already in view
+2023-02-13 22:31:25 - jupyter_notebook - INFO - Element: ID: input-1708, tag: button, entry label: Please select the veteran status which most accurately describes your status., answer: I AM NOT A VETERAN, answer type: LISTBOX, is already in view
+2023-02-13 22:31:25 - jupyter_notebook - INFO - Element: ID: input-1708, tag: button, entry label: Please select the veteran status which most accurately describes your status., answer: I AM NOT A VETERAN, answer type: LISTBOX, is already in view
+2023-02-13 22:31:25 - jupyter_notebook - INFO - answer found for question: I certify that I have read, fully understand and accept all terms of the foregoing statement., answer is: Yes
+2023-02-13 22:31:25 - jupyter_notebook - INFO - answer found for question: I certify that I have read, fully understand and accept all terms of the foregoing statement., answer is: Yes
+2023-02-13 22:31:25 - jupyter_notebook - INFO - answer found for question: I certify that I have read, fully understand and accept all terms of the foregoing statement., answer is: Yes
+2023-02-13 22:31:25 - jupyter_notebook - INFO - Element: ID: input-1709, tag: input, entry label: I certify that I have read, fully understand and accept all terms of the foregoing statement., answer: Yes, answer type: CHECKBOX, is already in view
+2023-02-13 22:31:25 - jupyter_notebook - INFO - Element: ID: input-1709, tag: input, entry label: I certify that I have read, fully understand and accept all terms of the foregoing statement., answer: Yes, answer type: CHECKBOX, is already in view
+2023-02-13 22:31:25 - jupyter_notebook - INFO - Element: ID: input-1709, tag: input, entry label: I certify that I have read, fully understand and accept all terms of the foregoing statement., answer: Yes, answer type: CHECKBOX, is already in view
+2023-02-13 22:31:26 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:26 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:26 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:31:29 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:31:29 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:31:29 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:31:29 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:31:29 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:31:29 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:31:30 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:31:30 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:31:30 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:31:30 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:30 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:30 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:31:31 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:31:31 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-13 22:31:31 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-13 22:31:31 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:31:31 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:31:31 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:31:31 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:36:34 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:36:34 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:36:34 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:36:36 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:36:36 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:36:36 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:36:36 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:36:36 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:36:36 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:36:37 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:36:37 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:36:37 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:36:37 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:36:37 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:36:37 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:36:38 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:36:38 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-13 22:36:38 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-13 22:36:38 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-06 00:00:00
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-06 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:36:38 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:36:38 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:36:38 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:40:56 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:40:56 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:40:56 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:40:58 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:40:58 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:40:58 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:40:58 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:40:58 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:40:58 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:40:58 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:40:58 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:40:58 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:40:58 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:40:58 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:40:58 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:40:59 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:40:59 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:40:59 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:40:59 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:40:59 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:40:59 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:40:59 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: list index out of range
+2023-02-13 22:42:23 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:42:23 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:42:23 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:42:25 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:42:25 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:42:25 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:42:25 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:42:25 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:42:25 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:42:25 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:42:25 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:42:25 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:42:25 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:42:25 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:42:25 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:42:26 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:42:26 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:42:26 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:42:26 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:42:26 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:42:26 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:42:26 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:42:26 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:42:26 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:42:26 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:26 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:26 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:42:27 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:42:27 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:42:27 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:42:27 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: can only concatenate str (not "list") to str
+2023-02-13 22:42:27 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: can only concatenate str (not "list") to str
+2023-02-13 22:42:27 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'selfIdentificationPage', 'Disabilities', 1, 'Answers.xlsx', 0.2),  error exception: can only concatenate str (not "list") to str
+2023-02-13 22:44:31 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:44:31 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:44:31 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:44:32 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:44:32 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:44:32 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:44:32 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:44:32 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:44:32 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:44:33 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:44:33 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:44:33 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:44:33 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:44:33 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:44:33 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:44:33 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:44:34 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:44:34 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:44:34 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:44:34 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:44:34 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:44:34 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:44:34 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:44:34 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:44:34 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:44:34 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:44:55 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:44:55 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:44:55 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:46:21 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:46:21 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:46:21 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:46:22 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:46:22 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:46:22 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:46:22 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:46:22 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:46:22 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:46:23 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:46:23 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:46:23 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:46:23 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:46:23 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:46:23 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:46:24 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:46:24 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:46:24 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:46:24 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:46:24 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:46:25 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:46:25 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:46:25 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:46:25 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:46:25 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:46:25 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:46:46 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:46:46 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:46:46 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:47:28 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:47:28 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:47:28 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:47:29 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:47:29 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:47:29 - jupyter_notebook - INFO - answer found for question: Language, answer is: English
+2023-02-13 22:47:29 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:47:29 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:47:29 - jupyter_notebook - INFO - Element: ID: input-1710, tag: button, entry label: Language, answer: English, answer type: LISTBOX, is already in view
+2023-02-13 22:47:30 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:47:30 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:47:30 - jupyter_notebook - INFO - answer found for question: Name, answer is: John Smith
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Element: ID: input-1714, tag: input, entry label: Name, answer: John Smith, answer type: TEXTINPUT, is already in view
+2023-02-13 22:47:30 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:47:30 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:47:30 - jupyter_notebook - INFO - answer found for question: Employee ID (if applicable), answer is: nan
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Answer in database for Employee ID (if applicable) is NaN, set answer to blank
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:47:30 - jupyter_notebook - INFO - Element: ID: input-1715, tag: input, entry label: Employee ID (if applicable), answer: , answer type: TEXTINPUT, is already in view
+2023-02-13 22:47:31 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - jupyter_notebook - INFO - answer found for question: Date, answer is: 2023-02-13 00:00:00
+2023-02-13 22:47:31 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:47:31 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:47:31 - jupyter_notebook - INFO - Element: ID: input-1718, tag: div, entry label: Date, answer: 2023-02-13 00:00:00, answer type: DATE_MONTH_DAY_YEAR, is already in view
+2023-02-13 22:47:31 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:47:31 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:47:31 - jupyter_notebook - INFO - answer found for question: Please check one of the boxes below:, answer is: No, I Don't Have A Disability, Or A History/Record Of Having A Disability
+2023-02-13 22:47:31 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:47:31 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:47:31 - jupyter_notebook - INFO - Element: ID: input-1719, tag: div, entry label: Please check one of the boxes below:, answer: No, I Don't Have A Disability, Or A History/Record Of Having A Disability, answer type: DISABILITY, is already in view
+2023-02-13 22:47:52 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:47:52 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:47:52 - jupyter_notebook - WARNING - Error in function fill_section, args: (<selenium.webdriver.chrome.webdriver.WebDriver (session="6bed73b124c73166f64a3c83e1cec0bc")>, 'contactInformationPage', 'Answers', 1, 'Answers.xlsx', 0.2),  error exception: wait for loading failed
+2023-02-13 22:47:54 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:47:54 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:47:54 - jupyter_notebook - INFO - header names are: ['Self Identify']
+2023-02-13 22:47:54 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:47:54 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:47:54 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:48:01 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:48:01 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:48:01 - jupyter_notebook - INFO - succesfully clicked on button with handle_type = data-automation-id, and value = bottom-navigation-next-button
+2023-02-13 22:48:03 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:48:03 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:48:03 - jupyter_notebook - INFO - Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:48:03 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:48:03 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:48:03 - jupyter_notebook - INFO - No buttons found starting with aria-label: 'Delete Work Experience'
+2023-02-13 22:48:05 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: list index out of range
+2023-02-13 22:48:05 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: list index out of range
+2023-02-13 22:48:05 - jupyter_notebook - WARNING - Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: list index out of range
