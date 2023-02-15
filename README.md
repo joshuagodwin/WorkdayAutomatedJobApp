@@ -9,3 +9,8 @@ Currently the program is still very buggy and in development. However, it is cur
 Script has not yet been exported to .py file. Still using jupyter notebook Main.ipynb as it's easier for debugging piecewise.
 
 Code works but is still in internal testing phase. Final product should only required launching the script or .exe and using the UI.
+
+requires selenium, and pandas libraries
+
+Before running script must have chromedriver in a PATH folder and then run a command prompt as an adminstrator. In cmd input the following: chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\JoshG\Documents\Machine Learning\JobApp_Automation\ChromeProfile"
+This will open a chrome script in debug mode. Currently works by having the chrome window viewable on the screen (I usually put it on the side). If the chrome window is not viewable when being run errors may be encountered due to some items not showing until the screen is viewed.
