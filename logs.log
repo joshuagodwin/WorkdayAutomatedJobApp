@@ -1027,3 +1027,6 @@ INFO:jupyter_notebook:succesfully clicked on button with handle_type = data-auto
 INFO:jupyter_notebook:Found 0 delete buttons starting with aria-label: 'Delete Work Experience'
 INFO:jupyter_notebook:No buttons found starting with aria-label: 'Delete Work Experience'
 WARNING:jupyter_notebook:Error in function add_sub_section, args: ('workExperienceSection', 'descendant'),  error exception: list index out of range
+INFO:script_file:This is an info message from the script file
+INFO:jupyter_notebook:This is an info message from the Jupyter notebook
+INFO:jupyter_notebook:answer found for question: Country / Territory Phone Code, answer is: United States of America (+1)
