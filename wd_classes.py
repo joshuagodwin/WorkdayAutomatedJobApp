@@ -65,6 +65,7 @@ class FormEntry():
         elif self.tag == 'button':
             if self.element.get_attribute('type') == 'button':
                 self.answer_type = "LISTBOX"
+                logger.info(f"answer type is LISTBOX for {self}")
 
         elif self.tag == 'textarea':
             self.answer_type = 'TEXTAREA'
@@ -151,27 +152,28 @@ class FormEntry():
     def get_tag(self):
         self.tag = self.element.tag_name
 
-    def write_answer(self,driver):
+
+    def write_specific_answer(self,driver,desired_answer):
         #Wait for element to be present
-        EC.presence_of_element_located((By.ID, self.ID))
-        
-        #get desired answer
-        desired_answer = self.answer.split(',')
-        desired_answer = desired_answer[0]
-        logger.info(f"deisred answer is: {desired_answer}")   
+        EC.presence_of_element_located((By.ID, self.ID))  
         
         #fill i nanswer based on type of form entry elemnt using self.answer_type: this will ultimately replace the self.tag method
         if self.answer_type == "DATE_MONTH_DAY_YEAR":
-            date_input = self.element.find_element_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Month']")
-            #format answr for inputting correct date (this assumes date has formate mm/dd/yyyy)
-            desired_answer = desired_answer.split('-')
-            logger.info(f"desired answer split into: {len(desired_answer)} pieces")
-            day = desired_answer[2].split(' ')
-            desired_answer = desired_answer[1] + day[0] + desired_answer[0]
-            logger.info(f"desired answer updated for date, is: {desired_answer}")
+            date_input = self.element.find_elements_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Month']")
+            if len(date_input) > 0:
+                date_input = date_input[0]
+                #format answr for inputting correct date (this assumes date has formate mm/dd/yyyy)
+                desired_answer = desired_answer.split('-')
+                logger.info(f"desired answer split into: {len(desired_answer)} pieces")
+                day = desired_answer[2].split(' ')
+                desired_answer = desired_answer[1] + day[0] + desired_answer[0]
+                logger.info+(f"desired answer updated for date, is: {desired_answer}")
             
-            date_input.send_keys(desired_answer)
-            date_input.send_keys(Keys.TAB)
+                date_input.send_keys(desired_answer)
+                date_input.send_keys(Keys.TAB)
+                return True
+            else:
+                logger.info(f"Couldn't find answewr for {desired_answer}")
 
         elif self.answer_type == "DATE_MONTH_YEAR":
     
@@ -182,6 +184,7 @@ class FormEntry():
             
             date_input.send_keys(desired_answer)
             date_input.send_keys(Keys.TAB)
+            return True
 
         elif self.answer_type == "DATE_YEAR":
             date_input = self.element.find_element_by_xpath(f"//*[@id='{self.ID}']/descendant::input[@aria-label='Year']")
@@ -190,13 +193,15 @@ class FormEntry():
             desired_answer = desired_answer[2]
             print(desired_answer)
             date_input.send_keys(desired_answer)
-            date_input.send_keys(Keys.TAB)  
+            date_input.send_keys(Keys.TAB)
+            return True 
             
         elif self.answer_type == "CHECKBOX":
             if desired_answer in ["yes", "YES", "Yes"] and self.element.get_attribute('aria-checked') == 'false':
                 print("made it to here")
                 self.element.click()
                 time.sleep(0.5)
+                return True
 
         elif self.answer_type == "TEXTAREA":
             #clear out any previous answer
@@ -205,9 +210,11 @@ class FormEntry():
             #fill in desired answer
             self.element.send_keys(self.answer)
             self.element.send_keys(Keys.ENTER)
+            return True
         
         elif self.answer_type == "MULTISELECT":
             #clear out any previous answer
+            time.sleep(1)
             self.element.send_keys(Keys.CONTROL,"a", Keys.DELETE)
     
             #fill in desired answer
@@ -218,17 +225,29 @@ class FormEntry():
             driver.implicitly_wait(1)
             
             if self.check_popup_list_visible() is True:
-                listbox_choice = driver.find_element_by_xpath(f"//div[@data-automation-id='promptOption' and @data-automation-label='{desired_answer}']")
-                listbox_choice.click()
-
+                try:
+                    listbox_choice = driver.find_elements_by_xpath(f"//div[@data-automation-id='promptOption' and @data-automation-label=\"{desired_answer}\"]")
+                    listbox_choice.click()
+                    logger.info(f"clicked on {desired_answer} in MULTISELECT")
+                    return True
+                except:
+                    logger.info(f"Couldn't find option: {desired_answer} in listbox")
+                
             self.element.send_keys(Keys.TAB)
-
+            
         elif self.answer_type == "LISTBOX":
+            logger.info(f"attempting listbox answer for answer {desired_answer}")
             self.element.click()
             wait = WebDriverWait(driver, 20)
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "[data-uxi-widget-type='popup']")))
-            dropdown_answer = self.element.find_element_by_xpath(f"//div[@data-uxi-widget-type='popup']/descendant::div[normalize-space(text())='{desired_answer}']")
-            dropdown_answer.click()
+            dropdown_answer = self.element.find_elements_by_xpath(f"//div[@data-uxi-widget-type='popup']/descendant::div[normalize-space(text())=\"{desired_answer}\"]")
+            if len(dropdown_answer) > 0:
+                dropdown_answer = dropdown_answer[0]
+                dropdown_answer.click()
+                logger.info(f"clicked on answer {desired_answer} in listbox")
+                return True
+            else:
+                logger.info(f"Couldn't find item in listbox: {desired_answer}")
 
         elif self.answer_type == "DISABILITY":
             answer_label = self.element.find_element_by_xpath(rf'//label[normalize-space(text())="{self.answer}"]')
@@ -236,9 +255,9 @@ class FormEntry():
             answer_checkbox = self.element.find_element_by_xpath(f"//input[@id='{answer_label_id}']")
             if answer_checkbox.get_attribute('aria-checked') == 'false':
                 answer_checkbox.click()
+                return True
 
-        #fill in answer based on type of entry form
-        elif self.tag == 'input':
+        elif self.answer_type == 'TEXTINPUT':
             
             #clear out any previous answer
             self.element.send_keys(Keys.CONTROL,"a", Keys.DELETE)
@@ -246,56 +265,27 @@ class FormEntry():
             #fill in desired answer
             self.element.send_keys(desired_answer)
             self.element.send_keys(Keys.ENTER)
-
-            #Wait for a moment
-            driver.implicitly_wait(0.5)
-
-            #if options box pops up select first option
-            widget_tag = self.element.get_attribute('data-uxi-widget-type')
-            
-            #check if only certain options allowed and choose first one
-            if widget_tag == 'selectinput':
-                popup_element = self.element.find_element_by_xpath(f"//div[@data-uxi-widget-type = 'popup']")
-                if popup_element.get_attribute('data-automation-activepopup') == "True":
-                    listbox_choice = driver.find_element_by_xpath(f"//div[@data-automation-id='promptOption' and @data-automation-label='{desired_answer}']")
-                    listbox_choice.click()
-
-            self.element.send_keys(Keys.TAB)
             driver.implicitly_wait(0.4)
-
-        elif self.tag == 'div':
-            radios = self.element.find_elements_by_xpath(".//input[@type='radio']")
-            #currently only treating radio buttons as yes or no, otehr types will raise error
-            if len(radios) > 0:
-                radio_label_yes = self.element.find_element_by_xpath(".//input[@type='radio']/following::label[normalize-space(text())='Yes']")
-                radio_label_no = self.element.find_element_by_xpath(".//input[@type='radio']/following::label[normalize-space(text())='No']")
-                radio_yes_idx = radio_label_yes.get_attribute('for')
-                radio_no_idx = radio_label_no.get_attribute('for')
-                radio_btn_yes = radio_label_yes.find_element_by_xpath(f".//preceding::input[@id='{radio_yes_idx}' and @type='radio']")
-                radio_btn_no = radio_label_no.find_element_by_xpath(f".//preceding::input[@id='{radio_no_idx}' and @type='radio']")
-                
-                #check appropriate box
-                if self.answer == 'Yes':
-                    radio_btn_yes.click()
-                else:
-                    radio_btn_no.click()
-
-            else:
-                print(f"unkown what format the answer type is for ID: {self.element.get_attribute('ID')}")
+            self.element.send_keys(Keys.TAB)
+            return True
+            
+        else:
+            return False
         
-        elif self.tag == 'button':
-            self.element.click()
-            driver.implicitly_wait(0.6)
-            
-            if len(self.element.find_elements_by_xpath(f"//div[@data-uxi-widget-type='popup']")) > 0:
-                dropdown_answer = self.element.find_element_by_xpath(f"//div[@data-uxi-widget-type='popup']/descendant::div[normalize-space(text())='{desired_answer}']")
-                dropdown_answer.click()
-            elif len(self.element.find_elements_by_xpath(f"//div[@data-uxi-widget-type='popup']")) > 0:
-                dropdown_answer = self.element.find_element_by_xpath(f"//div[@data-uxi-widget-type='popup']/descendant::div[normalize-space(text())='{desired_answer}']")
-                print("On phone device type button")
-                dropdown_answer.click()
-            
+        return False
 
+    def write_answer(self,driver):
+        #Wait for element to be present
+        EC.presence_of_element_located((By.ID, self.ID))
+        
+        #get desired answer
+        desired_answer = self.answer.split(',')
+        
+        for ans in desired_answer:
+            logger.info(f"trying answer: {ans}")
+
+            if self.write_specific_answer(driver,ans) == True:
+                break
 
     def update_element(self,driver):
         self.element = driver.find_element_by_xpath(f"//*[@id='{self.ID}']")
