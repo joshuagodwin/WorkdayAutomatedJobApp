@@ -1,4 +1,0 @@
-To do:
-Add Logs
-Add Interface/GUI
-Add Fuzzy Matching
